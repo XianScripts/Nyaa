@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header {
+    display: inline-flex;
+    justify-content: center;
+    width: 100%;
+    gap: 32px;
+    color: #37447E;
+    margin-bottom: 100px;
+}
+
+.htext {
+    font-weight: bolder;
+}
+
+.hbutton {
+    width: 125px;
+    color: color: #37447E;
+}

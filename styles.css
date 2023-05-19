@@ -1,0 +1,213 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    color: #505f98;
+}
+
+.header {
+    display: inline-flex;
+    justify-content: center;
+    width: 100%;
+    gap: 32px;
+    color: #37447E;
+    margin-bottom: 150px;
+}
+
+.htext {
+    font-weight: bolder;
+}
+
+.hbutton {
+    width: 125px;
+    background-color: #37447E;
+    color: aliceblue;
+    border-radius: 6px;
+}
+
+.hero {
+    display: flex;
+    justify-content: center;
+}
+
+.heroleft {
+    width: 400px;
+    margin-right: 70px;
+}
+
+.title {
+    color: #091133;
+}
+
+.subtitle {
+
+}
+
+.heroright {
+    display: flex;
+    margin-top: 20px;
+}
+
+.bumswild {
+    height: 380px;
+}
+
+.bums {
+    height: fit-content;
+    position: absolute;
+    margin-left: 40px;
+}
+
+.capy1 {
+    width: 400px;
+    height: 250px;
+    margin-top: 60px;
+}
+
+.secondpage {
+    display: flex;
+    margin-top: 300px;
+    justify-content: center;
+    margin-bottom: 300px;
+}
+
+.secondleft {
+    width: 400px;
+}
+
+.graphpage {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.graphheader {
+    display: flex;
+    flex-basis: 100%;
+    justify-content: center;
+}
+
+.graph1container, .graph2container {
+    display: flex;
+    flex-basis: 100%;
+    justify-content: center;
+}
+
+.graph1, .graph2{
+    width: 450px;
+    height: 350px;
+}
+
+.graph1text {
+    width: 400px;
+    
+}
+
+.linearcontainer1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.linearheader {
+    justify-content: center;
+    display: flex;
+    flex-basis: 100%;
+}
+
+.linearparagraph {
+    width: 400px;
+}
+
+.linearcontainer2 {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.linearparagraph2 {
+    margin-top: 200px;
+    width: 300px;
+}
+
+.aisection {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.aiheader {
+    display: flex;
+    flex-basis: 100%;
+    justify-content: center;
+}
+
+.aiparagraph {
+    width: 500px;
+}
+
+.capygirls {
+    display: flex;
+    justify-content: center;
+}
+
+.capygirl1, .capygirl2 {
+    width: 300px;
+    height: 300px;
+    margin-bottom: 300px;
+}
+
+.teuthPage {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.approvalHeader {
+    display: flex;
+    justify-content: center;
+    flex-basis: 100%;
+}
+
+.teuthParagraph {
+    display: flex;
+    width: 500px;
+    justify-content: center;
+    
+}
+
+.imgcontainer {
+    display: flex;
+    justify-content: center;
+}
+
+.teuthApproved {
+    width: 500px;
+    height: 700px;
+    margin-bottom: 300px;
+}
+
+
+
+.summaryTop {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.summaryP {
+    width: 500px;
+}
+
+.summary {
+    display: flex;
+    flex-basis: 100%;
+    justify-content: center;
+}
+
+.summaryBottom {
+    display: flex;
+    justify-content: center;
+}

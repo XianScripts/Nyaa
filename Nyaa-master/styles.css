@@ -1,0 +1,75 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    color: #505f98;
+}
+
+.header {
+    display: inline-flex;
+    justify-content: center;
+    width: 100%;
+    gap: 32px;
+    color: #37447E;
+    margin-bottom: 150px;
+}
+
+.htext {
+    font-weight: bolder;
+}
+
+.hbutton {
+    width: 125px;
+    color: color: #37447E;
+}
+
+.hero {
+    display: flex;
+    justify-content: center;
+}
+
+.heroleft {
+    width: 400px;
+    margin-right: 70px;
+}
+
+.title {
+    color: #091133;
+}
+
+.subtitle {
+
+}
+
+.heroright {
+    display: flex;
+    margin-top: 20px;
+}
+
+.bumswild {
+    height: 380px;
+}
+
+.bums {
+    height: fit-content;
+    position: absolute;
+    margin-left: 40px;
+}
+
+.capy1 {
+    width: 400px;
+    height: 250px;
+    margin-top: 60px;
+}
+
+.secondpage {
+    display: flex;
+    margin-top: 300px;
+    justify-content: center;
+}
+
+.secondleft {
+    width: 400px;
+}

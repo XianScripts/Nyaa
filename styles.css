@@ -68,9 +68,9 @@ p {
 
 .secondpage {
     display: flex;
-    margin-top: 300px;
+    margin-top: 100px;
     justify-content: center;
-    margin-bottom: 300px;
+    margin-bottom: 100px;
 }
 
 .secondleft {
@@ -156,7 +156,7 @@ p {
 .capygirl1, .capygirl2 {
     width: 300px;
     height: 300px;
-    margin-bottom: 300px;
+    margin-bottom: 100px;
 }
 
 .teuthPage {
@@ -186,7 +186,7 @@ p {
 .teuthApproved {
     width: 500px;
     height: 700px;
-    margin-bottom: 300px;
+    margin-bottom: 100px;
 }
 
 
